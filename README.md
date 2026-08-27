@@ -18,7 +18,7 @@ Rather than deep-dive programming, my core value lies in **architectural solutio
 
 ###  Featured Enterprise Portfolio Projects
 
-#### 📂 [1. Banking Migration Architecture & Strategy](https://github.com)
+#### 📂 [1. Banking Migration Architecture & Strategy](https://github.com/rutujameshram18/banking-migration-architecture-strategy)
 A detailed strategic evaluation that saved 4 months of engineering time by horizontally scaling secure Spring Boot server nodes instead of deploying an unsecure third-party script.
 
 #### 📂 [2. Banking Data Integrity & Pre-Validation Pipeline](https://github.com/rutujameshram18/banking-data-integrity-pre-validation)
