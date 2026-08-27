@@ -21,7 +21,7 @@ Rather than deep-dive programming, my core value lies in **architectural solutio
 #### 📂 [1. Banking Migration Architecture & Strategy](https://github.com)
 A detailed strategic evaluation that saved 4 months of engineering time by horizontally scaling secure Spring Boot server nodes instead of deploying an unsecure third-party script.
 
-#### 📂 [2. Banking Data Integrity & Pre-Validation Pipeline](https://github.com)
+#### 📂 [2. Banking Data Integrity & Pre-Validation Pipeline](https://github.com/rutujameshram18/banking-data-integrity-pre-validation)
 A comprehensive blueprint implementing a "Shift-Left" data quality engine that intercepts raw JSON/CSV logs at the source to prevent duplicate record processing and double-work loops.
 
 #### 📂 [3. Secure High-Velocity Banking Migration Framework](https://github.com/rutujameshram18/secure-high-velocity-banking-migration-framework)
